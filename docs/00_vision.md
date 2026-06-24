@@ -6,11 +6,11 @@
 
 ## 2. Resumen ejecutivo
 
-MangOS Command Center es una aplicación nativa de Windows para capturar, organizar y gestionar información personal de trabajo, estudio y proyectos desde una interfaz simple basada en escritura natural.
+MangOS Command Center es una aplicación incialmente nativa de Windows para capturar, organizar y gestionar información personal de trabajo, estudio y proyectos desde una interfaz simple basada en escritura natural.
 
 El producto busca resolver un problema común: las personas generan ideas, tareas, preguntas, aprendizajes y pendientes en distintos momentos, pero esa información suele quedar dispersa en notas, chats, calendarios, gestores de tareas y documentos. Esto obliga al usuario a clasificar manualmente, copiar información entre herramientas y recordar qué debe retomarse después.
 
-MangOS Command Center propone una experiencia centralizada: el usuario escribe una entrada en una barra principal y el sistema la registra, clasifica y convierte en el tipo de elemento correspondiente: tarea, idea, pregunta, aprendizaje, recordatorio, proyecto o registro de avance.
+MangOS Command Center propone una experiencia centralizada: el usuario escribe una entrada en una barra principal y el sistema la registra, clasifica y convierte en el tipo de elemento correspondiente: tarea, idea, pregunta, aprendizaje, recordatorio, proyecto, registro de avance, etc.
 
 La visión del producto es construir un centro de mando personal que reduzca el trabajo administrativo de organizarse y permita que el usuario se concentre en pensar, decidir y ejecutar.
 
@@ -176,15 +176,3 @@ Los principales riesgos del producto son:
 - usar vocabulario interno que usuarios nuevos no entiendan;
 - convertir la organización en otra carga manual;
 - perder el enfoque de aplicación simple y fluida.
-
-## 15. Primera meta del producto
-
-La primera meta es construir una versión mínima que permita:
-
-1. abrir la aplicación;
-2. escribir una entrada en una barra principal;
-3. guardar esa entrada localmente;
-4. clasificarla de forma básica;
-5. verla en una lista organizada;
-6. mover una tarea entre estados;
-7. generar un resumen simple del día.

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MangOS.App.Windows (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MangOS.App.Windows (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

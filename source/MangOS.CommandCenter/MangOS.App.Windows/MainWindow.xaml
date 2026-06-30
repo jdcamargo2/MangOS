@@ -34,12 +34,15 @@
             </Grid.ColumnDefinitions>
 
             <TextBox
+                    x:Name="CaptureTextBox"
                     Grid.Column="0"
                     PlaceholderText="Escribe una idea, tarea, pregunta o avance..."
-                    FontSize="16"/>
-            <Button
+                    FontSize="16"
+                    KeyDown="CaptureTextBox_KeyDown"/>
+                <Button
                     Grid.Column="1"
-                    Content="Enviar"/>
+                    Content="Enviar"
+                    Click="CaptureButton_Click"/>
         </Grid> 
         </StackPanel>
     </Grid>
